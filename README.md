@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @crizalid12
-- 👀 I’m interested in web developping 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Python & Javascript
+- 💞️ I’m looking to collaborate on python/javascript projects
 - 📫 How to reach me :
   email: riad@riad.me
 
